@@ -1,9 +1,9 @@
 ### Hello beautiful people 👋
 
-🔭 I’m currently working on python/django projects.
-<br>
-🌱 I’m currently learning python/django, django-rest-framework, javascript
-<br>
+I am Rajish Maharjan. I am a beginner developer, here some info about me.<br>
+👀 I’m interested in Python/Django and Django-Rest-Framework. I know JavaScript, HTML and CSS (self-taught, so it is likely that i don't about know something).<br>
+💞️ I’m looking to collaborate on nothing... You can contact me for collaboration though!.<br>
+🔭 I’m currently working on python/django projects.<br>
 
 <!--
 **Rajish123/Rajish123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajish123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Rajish Maharjan's Github Stats">
 </p>
+<br>
+<hr>
+<a href="https://github.com/Rajish123?tab=overview">
+<img align="center" alt="Rajish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajish123&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajish123&theme=radical" alt="More Rajish Stats" /></p>
+</a>
