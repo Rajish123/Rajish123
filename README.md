@@ -1,7 +1,9 @@
 ### Hello beautiful people 👋
 
-🔭 I’m currently working on python/django projects
+🔭 I’m currently working on python/django projects.
+<br>
 🌱 I’m currently learning python/django, django-rest-framework, javascript
+<br>
 
 <!--
 **Rajish123/Rajish123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
