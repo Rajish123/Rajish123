@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajish123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Rajish Maharjan's Github Stats">
 </p>
+<hr>
+<br>
+<p align="center">
+  <img src="https://github.com/Rajish123/Rajish123/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <br>
 <hr>
 <a href="https://github.com/Rajish123?tab=overview">
