@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <hr>
 <br>
 <p align="center">
-  <img src="https://github.com/Rajish123/Rajish123/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Rajish/Rajish/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 <hr>
