@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <hr>
 <a href="https://github.com/Rajish123?tab=overview">
 <img align="center" alt="Rajish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajish123&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/><br>
-<h3>My contributions</h3>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajish123&theme=radical" alt="More Rajish Stats" /></p>
 </a>
 <hr>
