@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajish123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Rajish Maharjan's Github Stats">
 </p>
 <br>
+<h3>My contributions</h3>
 <hr>
 <a href="https://github.com/Rajish123?tab=overview">
 <img align="center" alt="Rajish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajish123&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
