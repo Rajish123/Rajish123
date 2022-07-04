@@ -1,7 +1,7 @@
 ### Hello beautiful people 👋
 
 I am Rajish Maharjan. I am a beginner developer, here some info about me.<br>
-👀 I’m interested in Python/Django and Django-Rest-Framework. I know JavaScript, HTML and CSS (self-taught, so it is likely that i don't about know something).<br>
+👀 I’m interested in Python/Django and Django-Rest-Framework. I know JavaScript, HTML and CSS (self-taught, so it is likely that i may not know everything.).<br>
 💞️ I’m looking to collaborate on nothing... You can contact me for collaboration though!.<br>
 🔭 I’m currently working on python/django projects.<br>
 
